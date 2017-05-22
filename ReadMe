@@ -1,0 +1,2 @@
+# Phone-Compare
+In this project, the user is able to choose the type of phone they want and the price range of it. When PHP validates the data, it will go into the database and select the products that match the description and return information.
